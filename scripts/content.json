@@ -1,0 +1,188 @@
+{
+  "es": {
+    "lang": "ES",
+    "email": "alansandovalproject@gmail.com",
+    "role": "Ingeniero en Software Full Stack. Backend en NestJS, apps móviles en Flutter y React Native.",
+    "status": "Disponible para equipos backend o full stack",
+    "facts": [
+      ["De punta a punta", "Backend, app móvil y panel web del mismo servicio · UTN Móvil"],
+      ["Arquitectura sólida", "Clean Architecture, microservicios y CQRS en una fintech de pagos"],
+      ["Hasta producción", "Docker, API Gateway con JWT y despliegue en Android e iOS"]
+    ],
+    "write": "Escribir",
+    "work_heading": "Trabajo",
+    "work_intro": "Sistemas entregados, del más grande al más pequeño.",
+    "work": [
+      {
+        "weight": 3, "period": "Ene 2025 — Ene 2026", "org": "Universidad Técnica del Norte", "place": "Ibarra",
+        "role": "Desarrollador Full Stack · Proyecto de titulación",
+        "title": "Gestión de Clubes/Grupos en UTN Móvil",
+        "summary": "Un servicio completo de la plataforma institucional UTN Móvil, de la base de datos a la app.",
+        "figures": [["91,3%", "calidad de uso"], ["99,2%", "tareas sin errores"], ["15", "usuarios evaluados · ISO/IEC 25022"]],
+        "points": [
+          "Microservicio NestJS y TypeScript tras el API Gateway institucional con JWT, contenerizado con Docker.",
+          "App móvil en Flutter con Clean Architecture y módulo administrativo web en Oracle APEX.",
+          "SCRUM: 17 historias de usuario en 4 sprints. Entregado al DDTI con acta de entrega.",
+          "Reconocimiento del Rectorado por el proyecto “UTN-Móvil” (mayo 2025)."
+        ],
+        "stack": ["NestJS", "TypeScript", "Flutter", "Oracle APEX", "Docker", "JWT"]
+      },
+      {
+        "weight": 3, "period": "May 2026 — Jul 2026", "org": "Innovation & Technology Services LLC · Utransfer", "place": "Remoto",
+        "role": "Desarrollador Full Stack Junior",
+        "title": "Plataforma de pagos fintech",
+        "summary": "Backend en NestJS y PostgreSQL con Arquitectura Limpia, microservicios y CQRS.",
+        "points": [
+          "Desarrollé el módulo de seguridad (autenticación y cifrado de contraseñas) y el API Gateway.",
+          "Implementé la comunicación entre microservicios para obtener información de proveedores.",
+          "Funcionalidades móviles en React Native; lideré la compilación nativa y el despliegue en Android e iOS."
+        ],
+        "stack": ["NestJS", "PostgreSQL", "CQRS", "Microservicios", "React Native"]
+      },
+      {
+        "weight": 2, "period": "Feb 2024 — Ago 2024", "org": "Universidad Técnica del Norte · DDTI", "place": "Ibarra",
+        "role": "Desarrollador Python · Prácticas",
+        "title": "Revisión automatizada de fotografías",
+        "summary": "Servicios API-REST de visión por computador para un proceso que se hacía a mano.",
+        "points": [
+          "Automaticé con Python (Flask y OpenCV) la revisión de 14.000 fotografías.",
+          "Gestor documental que reconoce documentos por su texto y tipo, con OCR, OpenCV y expresiones regulares."
+        ],
+        "stack": ["Python", "Flask", "OpenCV", "OCR"]
+      },
+      {
+        "weight": 1, "period": "Mar 2026 — May 2026", "org": "eMinkaTech S.A.", "place": "Quito",
+        "role": "Desarrollador Web e Infraestructura",
+        "title": "Sitio corporativo e infraestructura",
+        "summary": "Web corporativa y operación de la infraestructura de la empresa.",
+        "points": [
+          "Diseñé y desarrollé la página web corporativa.",
+          "Infraestructura hiperconvergente (Nutanix), red y dominios con Cloudflare; soporte técnico."
+        ],
+        "stack": ["Nutanix", "Cloudflare", "Redes"]
+      }
+    ],
+    "profile_heading": "Perfil",
+    "bio": [
+      "Soy Ingeniero en Software por la Universidad Técnica del Norte, en Ibarra, Ecuador. Trabajo en backend con NestJS (Arquitectura Limpia, microservicios y CQRS) y en desarrollo móvil multiplataforma con Flutter y React Native.",
+      "Trabajo con SCRUM y busco aportar en equipos de desarrollo backend o full stack."
+    ],
+    "languages": "Español nativo · Inglés técnico (B1)",
+    "record_heading": "Formación y reconocimientos",
+    "record": [
+      ["Ingeniero en Software", "Universidad Técnica del Norte", "Mar 2026"],
+      ["Scrum Foundation Professional Certification (SFPC™)", "Certificación", ""],
+      ["Reconocimiento del Rectorado, proyecto “UTN-Móvil”", "Universidad Técnica del Norte", "May 2025"],
+      ["Presidente del Club de Programación", "Talleres técnicos y eventos académicos · UTN", "2023 — 2026"],
+      ["Ingeniero de Software Voluntario", "NASA Space Apps Challenge", "2024 — 2025"]
+    ],
+    "stack_heading": "Tecnologías",
+    "stack": [
+      ["Backend", ["NestJS", "Node.js", "TypeScript", "Python", "Flask", "OpenCV", "OCR", "Java", "C#"]],
+      ["Frontend y móvil", ["Flutter", "Dart", "React Native", "React", "Angular", "JavaScript"]],
+      ["Arquitectura", ["Clean Architecture", "CQRS", "Microservicios", "API RESTful", "SOLID", "API Gateway", "JWT"]],
+      ["Bases de datos", ["PostgreSQL", "Oracle (PL/SQL, APEX)", "SQL Server"]],
+      ["DevOps e infraestructura", ["Docker", "Git", "GitHub", "Railway", "Linux", "Nutanix", "Cloudflare"]]
+    ],
+    "contact_heading": "¿Construimos algo?",
+    "contact_body": "Busco aportar en equipos de desarrollo backend o full stack. Escríbeme.",
+    "footer": "Alan Sandoval · Ibarra, Ecuador",
+    "alt_hero": "Alan Sandoval. Ingeniero en Software Full Stack. Backend en NestJS, apps móviles en Flutter y React Native. Disponible para equipos backend o full stack.",
+    "alt_work": "Trabajo: Gestión de Clubes/Grupos en UTN Móvil; plataforma de pagos fintech (Utransfer); revisión automatizada de 14.000 fotografías (UTN DDTI); sitio corporativo e infraestructura (eMinkaTech).",
+    "alt_profile": "Perfil: Ingeniero en Software (UTN, 2026), SFPC, stack backend, móvil, arquitectura, bases de datos y DevOps.",
+    "alt_contact": "¿Construimos algo? Escríbeme a alansandovalproject@gmail.com."
+  },
+  "en": {
+    "lang": "EN",
+    "email": "alansandovalproject@gmail.com",
+    "role": "Full Stack Software Engineer. NestJS backends, Flutter and React Native mobile apps.",
+    "status": "Available for backend or full stack teams",
+    "facts": [
+      ["End to end", "Backend, mobile app and web admin for the same service · UTN Móvil"],
+      ["Solid architecture", "Clean Architecture, microservices and CQRS in a fintech payments platform"],
+      ["Through to production", "Docker, API Gateway with JWT, and Android and iOS releases"]
+    ],
+    "write": "Write",
+    "work_heading": "Work",
+    "work_intro": "Systems delivered, largest first.",
+    "work": [
+      {
+        "weight": 3, "period": "Jan 2025 — Jan 2026", "org": "Universidad Técnica del Norte", "place": "Ibarra",
+        "role": "Full Stack Developer · Degree project",
+        "title": "Clubs/Groups management in UTN Móvil",
+        "summary": "A complete service of the UTN Móvil institutional platform, from database to app.",
+        "figures": [["91.3%", "quality in use"], ["99.2%", "tasks without errors"], ["15", "users evaluated · ISO/IEC 25022"]],
+        "points": [
+          "NestJS and TypeScript microservice behind the institutional API Gateway with JWT, containerized with Docker.",
+          "Flutter mobile app with Clean Architecture and an Oracle APEX web admin module.",
+          "SCRUM: 17 user stories over 4 sprints. Handed over to DDTI with a formal delivery record.",
+          "Recognized by the University Rectorate for the “UTN-Móvil” project (May 2025)."
+        ],
+        "stack": ["NestJS", "TypeScript", "Flutter", "Oracle APEX", "Docker", "JWT"]
+      },
+      {
+        "weight": 3, "period": "May 2026 — Jul 2026", "org": "Innovation & Technology Services LLC · Utransfer", "place": "Remote",
+        "role": "Junior Full Stack Developer",
+        "title": "Fintech payments platform",
+        "summary": "NestJS and PostgreSQL backend with Clean Architecture, microservices and CQRS.",
+        "points": [
+          "Built the security module (authentication and password encryption) and the API Gateway.",
+          "Implemented inter-service communication to retrieve provider information.",
+          "React Native mobile features; led the native build and deployment for Android and iOS."
+        ],
+        "stack": ["NestJS", "PostgreSQL", "CQRS", "Microservices", "React Native"]
+      },
+      {
+        "weight": 2, "period": "Feb 2024 — Aug 2024", "org": "Universidad Técnica del Norte · DDTI", "place": "Ibarra",
+        "role": "Python Developer · Internship",
+        "title": "Automated photo review",
+        "summary": "Computer-vision REST services for a process that used to be done by hand.",
+        "points": [
+          "Automated the review of 14,000 photos with Python (Flask and OpenCV).",
+          "Document manager that recognizes documents by their text and type, using OCR, OpenCV and regular expressions."
+        ],
+        "stack": ["Python", "Flask", "OpenCV", "OCR"]
+      },
+      {
+        "weight": 1, "period": "Mar 2026 — May 2026", "org": "eMinkaTech S.A.", "place": "Quito",
+        "role": "Web & Infrastructure Developer",
+        "title": "Corporate site and infrastructure",
+        "summary": "The company website and day-to-day infrastructure operations.",
+        "points": [
+          "Designed and built the corporate website.",
+          "Hyperconverged infrastructure (Nutanix), network and domains with Cloudflare; technical support."
+        ],
+        "stack": ["Nutanix", "Cloudflare", "Networking"]
+      }
+    ],
+    "profile_heading": "Profile",
+    "bio": [
+      "I’m a Software Engineer from Universidad Técnica del Norte in Ibarra, Ecuador. I work on NestJS backends (Clean Architecture, microservices and CQRS) and cross-platform mobile apps with Flutter and React Native.",
+      "I work with SCRUM and I’m looking to contribute to backend or full stack development teams."
+    ],
+    "languages": "Spanish (native) · Technical English (B1)",
+    "record_heading": "Education and recognition",
+    "record": [
+      ["Software Engineer", "Universidad Técnica del Norte", "Mar 2026"],
+      ["Scrum Foundation Professional Certification (SFPC™)", "Certification", ""],
+      ["Rectorate recognition, “UTN-Móvil” project", "Universidad Técnica del Norte", "May 2025"],
+      ["President of the Programming Club", "Technical workshops and academic events · UTN", "2023 — 2026"],
+      ["Volunteer Software Engineer", "NASA Space Apps Challenge", "2024 — 2025"]
+    ],
+    "stack_heading": "Stack",
+    "stack": [
+      ["Backend", ["NestJS", "Node.js", "TypeScript", "Python", "Flask", "OpenCV", "OCR", "Java", "C#"]],
+      ["Frontend & mobile", ["Flutter", "Dart", "React Native", "React", "Angular", "JavaScript"]],
+      ["Architecture", ["Clean Architecture", "CQRS", "Microservices", "RESTful APIs", "SOLID", "API Gateway", "JWT"]],
+      ["Databases", ["PostgreSQL", "Oracle (PL/SQL, APEX)", "SQL Server"]],
+      ["DevOps & infrastructure", ["Docker", "Git", "GitHub", "Railway", "Linux", "Nutanix", "Cloudflare"]]
+    ],
+    "contact_heading": "Shall we build something?",
+    "contact_body": "I’m looking to contribute to backend or full stack teams. Write to me.",
+    "footer": "Alan Sandoval · Ibarra, Ecuador",
+    "alt_hero": "Alan Sandoval. Full Stack Software Engineer. NestJS backends, Flutter and React Native mobile apps. Available for backend or full stack teams.",
+    "alt_work": "Work: Clubs/Groups management in UTN Móvil; fintech payments platform (Utransfer); automated review of 14,000 photos (UTN DDTI); corporate site and infrastructure (eMinkaTech).",
+    "alt_profile": "Profile: Software Engineer (UTN, 2026), SFPC, backend, mobile, architecture, database and DevOps stack.",
+    "alt_contact": "Shall we build something? Write to alansandovalproject@gmail.com."
+  }
+}
